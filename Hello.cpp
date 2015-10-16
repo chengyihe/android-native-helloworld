@@ -6,6 +6,6 @@ using namespace android;
 
 int main()
 {
-	ALOGD("hello world");
+    ALOGD("hello world");
     return 0;
 }
